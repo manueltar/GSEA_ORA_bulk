@@ -1,0 +1,4 @@
+Contrast	File
+Genotype_rs62237617_vs_wt	/group/soranzo/manuel.tardaguila/2025_hESC_lymph_multiome/bulk_rnaseq_results/NONCOD_hom.deseq_results_rep_correction.csv
+Genotype_DNMT3A_vs_wt	/group/soranzo/manuel.tardaguila/2025_hESC_lymph_multiome/bulk_rnaseq_results/DNMT3A_hom.deseq_results_rep_correction.csv
+Genotype_rs62237617_DNMT3A_vs_wt	/group/soranzo/manuel.tardaguila/2025_hESC_lymph_multiome/bulk_rnaseq_results/DOUBLE_het.deseq_results_rep_correction.csv
